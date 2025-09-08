@@ -1,4 +1,4 @@
-**IA02 – Classification non linéaire grâce à l’IA avancée**
+# IA02 – Classification non linéaire grâce à l’IA avancée
 
 📌 Description du projet
 
@@ -9,7 +9,7 @@ Partie 1 – Vision : Classification d’images avec le dataset CIFAR-10 (60 000
 
 Partie 2 – Signaux : Détection de chutes à partir de données de capteurs (dataset de signaux multidimensionnels).
 
-🧩 Partie 1 – Classification d’images (CIFAR-10)
+# 🧩 Partie 1 – Classification d’images (CIFAR-10)
 
 Analyse exploratoire du dataset (répartition, visualisations).
 
@@ -23,11 +23,11 @@ Implémentation et comparaison de :
 
 Évaluation en termes de précision et de temps de calcul.
 
-🧩 Partie 2 – Détection de chutes
+# 🧩 Partie 2 – Détection de chutes
 
 Nous avons choisi le Dataset 2 : Fall Detection.
 
-Dataset :
+## Dataset :
 
 757 échantillons de signaux multidimensionnels représentant la variation du champ électromagnétique.
 
@@ -35,7 +35,7 @@ Collectés sur 22 participants dans 4 environnements différents.
 
 321 échantillons correspondent à des chutes.
 
-Objectif : Développer des algorithmes de classification binaires pour distinguer chute / non-chute.
+## Objectif : Développer des algorithmes de classification binaires pour distinguer chute / non-chute.
 
 Contraintes d’évaluation :
 
@@ -43,7 +43,7 @@ Entraînement sur les 22 participants et 4 environnements, puis test sur des sig
 
 Entraînement avec uniquement certains environnements/participants, et test sur des participants inconnus dans des environnements nouveaux.
 
-Travail réalisé :
+## Travail réalisé :
 
 Analyse des signaux et préparation des données.
 
@@ -53,7 +53,7 @@ Mise en place de techniques d’augmentation des données pour améliorer la rob
 
 Comparaison des performances sur données vues et non vues.
 
-📊 Méthodologie
+## 📊 Méthodologie
 
 Prétraitement des données (normalisation, segmentation, transformations).
 
@@ -63,7 +63,7 @@ Ajustement des hyperparamètres pour chaque modèle.
 
 Évaluation : exactitude, F1-score, robustesse sur environnements/participants nouveaux.
 
-🚀 Résultats attendus
+## 🚀 Résultats attendus
 
 Comparaison détaillée des performances des modèles.
 
@@ -71,6 +71,6 @@ Impact des techniques d’augmentation de données.
 
 Discussion sur les limites et perspectives (généralisation, surapprentissage, robustesse).
 
-👥 Équipe
+## 👥 Équipe
 
 Projet réalisé en binôme dans le cadre du cours IA02 – Printemps 2025
