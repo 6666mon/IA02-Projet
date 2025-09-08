@@ -47,7 +47,7 @@ Travail réalisé :
 
 Analyse des signaux et préparation des données.
 
-Implémentation de plusieurs algorithmes de classification (ML + DL).
+Implémentation de plusieurs algorithmes de classification (DL).
 
 Mise en place de techniques d’augmentation des données pour améliorer la robustesse.
 
