@@ -1,4 +1,4 @@
-IA02 – Classification non linéaire grâce à l’IA avancée
+**IA02 – Classification non linéaire grâce à l’IA avancée**
 
 📌 Description du projet
 
